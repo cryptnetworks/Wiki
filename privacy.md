@@ -2,10 +2,10 @@
 title: Privacy Policy
 description: 
 published: true
-date: 2024-10-23T22:28:48.019Z
+date: 2024-12-15T16:32:33.554Z
 tags: policies, privacy policy
 editor: markdown
-dateCreated: 2024-10-23T22:28:45.620Z
+dateCreated: 2024-12-09T13:50:35.026Z
 ---
 
 # Privacy Policy for M. DeSocio - Wiki  
@@ -61,9 +61,7 @@ The Wiki is not intended for use by children under the age of 13, and we do not 
 We reserve the right to modify this Privacy Policy at any time. Any changes will be effective immediately upon posting to the Wiki. Your continued use of the Wiki after the posting of changes constitutes your acceptance of the updated Privacy Policy. We encourage you to review this policy periodically for any updates.
 
 ## 10. **Contact Us**  
-If you have any questions or concerns about this Privacy Policy or how we handle your personal information, please contact us at:
-
-**info@idiots.cc**  
+If you have any questions or concerns regarding these Privacy Policy, please contact via email [here](mailto:mike+wiki@desocios.com).
 
 ---
 
