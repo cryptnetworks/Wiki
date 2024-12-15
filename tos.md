@@ -2,10 +2,10 @@
 title: Terms of Service
 description: 
 published: true
-date: 2024-10-23T22:30:21.287Z
+date: 2024-12-15T16:31:41.522Z
 tags: policies, tos, terms, terms of service, terms and conditions
 editor: markdown
-dateCreated: 2024-10-23T22:25:54.629Z
+dateCreated: 2024-12-09T13:50:39.006Z
 ---
 
 # Terms of Service for M. DeSocio - Wiki  
@@ -14,7 +14,7 @@ dateCreated: 2024-10-23T22:25:54.629Z
 **PLEASE READ THESE TERMS OF SERVICE CAREFULLY BEFORE USING THIS WIKI. BY ACCESSING OR USING THE WIKI, YOU AGREE TO BE BOUND BY THESE TERMS. IF YOU DO NOT AGREE TO THESE TERMS, YOU MAY NOT USE THE WIKI.**  
 
 ## 1. **Acceptance of Terms**  
-These Terms of Service ("Terms") govern your access to and use of M.DeSocio - Wiki ("the Wiki"), which is operated by Michael DeSocio ("we," "us," or "our"). By accessing or using the Wiki, you agree to be bound by these Terms, our [Privacy Policy](https://wiki.idiots.cc/en/privacy) and any other applicable policies. If you do not agree to these Terms, you must discontinue your use of the Wiki immediately.
+These Terms of Service ("Terms") govern your access to and use of M.DeSocio - Wiki ("the Wiki"), which is operated by Michael DeSocio ("we," "us," or "our"). By accessing or using the Wiki, you agree to be bound by these Terms, our [Privacy Policy](/privacy) and any other applicable policies. If you do not agree to these Terms, you must discontinue your use of the Wiki immediately.
 
 ## 2. **Eligibility**  
 By accessing or using the Wiki, you represent and warrant that you are at least 18 years old or have the consent of a parent or guardian to use the Wiki. If you are using the Wiki on behalf of an organization, you represent and warrant that you have the authority to bind the organization to these Terms.
@@ -41,7 +41,7 @@ You may use the Wiki for lawful purposes only and in accordance with these Terms
 - **Our Content**: All content, software, and materials made available through the Wiki, including but not limited to text, images, graphics, logos, and code, are our property or licensed to us and are protected by intellectual property laws. You agree not to copy, distribute, or create derivative works from any of the content made available on the Wiki without our prior written permission.
 
 ## 7. **Privacy**  
-Your use of the Wiki is also governed by our [Privacy Policy](https://wiki.idiots.cc/en/privacy), which outlines the collection, use, and protection of your personal information. By using the Wiki, you consent to our collection and use of your information as described in the Privacy Policy. We collect only minimal information, including your name and email address, for account creation and communication purposes.
+Your use of the Wiki is also governed by our [Privacy Policy](/privacy), which outlines the collection, use, and protection of your personal information. By using the Wiki, you consent to our collection and use of your information as described in the Privacy Policy. We collect only minimal information, including your name and email address, for account creation and communication purposes.
 
 ## 8. **Termination**  
 We reserve the right to suspend or terminate your account or your access to the Wiki at our sole discretion, without notice, if we believe you have violated these Terms or for any other reason we deem necessary. Upon termination, you must cease all use of the Wiki and any associated content.
@@ -64,7 +64,6 @@ If any provision of these Terms is found to be invalid, illegal, or unenforceabl
 These Terms constitute the entire agreement between you and us regarding your use of the Wiki and supersede any prior agreements or understandings, whether written or oral.
 
 ## 14. **Contact Information**  
-If you have any questions or concerns regarding these Terms, please contact us at:  
-info@idiots.cc 
+If you have any questions or concerns regarding these Terms, please contact via email [here](mailto:mike+wiki@desocios.com).
 
 By using the Wiki, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.
