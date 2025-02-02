@@ -2,7 +2,7 @@
 title: Terms of Service
 description: 
 published: true
-date: 2025-02-02T23:29:05.326Z
+date: 2025-02-02T23:29:13.675Z
 tags: policies, tos, terms, terms of service, terms and conditions
 editor: markdown
 dateCreated: 2025-02-02T23:24:55.731Z
@@ -64,6 +64,6 @@ If any provision of these Terms is found to be invalid, illegal, or unenforceabl
 These Terms constitute the entire agreement between you and us regarding your use of the Wiki and supersede any prior agreements or understandings, whether written or oral.
 
 ## 14. **Contact Information**  
-If you have any questions or concerns regarding these Terms, please contact via email to [Mike](mailto:mike+wiki@desocios.com) or [Tyler](mailto:tyler.m.barnes15@gmail.com)
+If you have any questions or concerns regarding these Terms, please contact via email to [Mike](mailto:mike+wiki@desocios.com) or [Tyler](mailto:tyler.m.barnes15@gmail.com).
 
 By using the Wiki, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.
