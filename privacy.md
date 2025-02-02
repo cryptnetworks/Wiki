@@ -2,13 +2,13 @@
 title: Privacy Policy
 description: 
 published: true
-date: 2024-12-15T16:32:33.554Z
+date: 2025-02-02T23:27:35.068Z
 tags: policies, privacy policy
 editor: markdown
-dateCreated: 2024-12-09T13:50:35.026Z
+dateCreated: 2025-02-02T23:24:52.610Z
 ---
 
-# Privacy Policy for M. DeSocio - Wiki  
+# Privacy Policy for - Wiki  
 *(Effective Date: October 23, 2024)*  
 
 **M. DeSocio - Wiki ("the Wiki," "we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your personal information when you use the Wiki. By accessing or using the Wiki, you consent to the practices described in this policy.**
