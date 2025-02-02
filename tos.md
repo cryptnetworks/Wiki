@@ -2,7 +2,7 @@
 title: Terms of Service
 description: 
 published: true
-date: 2025-02-02T23:27:06.371Z
+date: 2025-02-02T23:29:05.326Z
 tags: policies, tos, terms, terms of service, terms and conditions
 editor: markdown
 dateCreated: 2025-02-02T23:24:55.731Z
@@ -14,7 +14,7 @@ dateCreated: 2025-02-02T23:24:55.731Z
 **PLEASE READ THESE TERMS OF SERVICE CAREFULLY BEFORE USING THIS WIKI. BY ACCESSING OR USING THE WIKI, YOU AGREE TO BE BOUND BY THESE TERMS. IF YOU DO NOT AGREE TO THESE TERMS, YOU MAY NOT USE THE WIKI.**  
 
 ## 1. **Acceptance of Terms**  
-These Terms of Service ("Terms") govern your access to and use of - Wiki ("the Wiki"), which is operated by Michael DeSocio and Tyler Barnes ("we," "us," or "our"). By accessing or using the Wiki, you agree to be bound by these Terms, our [Privacy Policy](/privacy) and any other applicable policies. If you do not agree to these Terms, you must discontinue your use of the Wiki immediately.
+These Terms of Service ("Terms") govern your access to and use of Wiki ("the Wiki"), which is operated by Michael DeSocio and Tyler Barnes ("we," "us," or "our"). By accessing or using the Wiki, you agree to be bound by these Terms, our [Privacy Policy](/privacy) and any other applicable policies. If you do not agree to these Terms, you must discontinue your use of the Wiki immediately.
 
 ## 2. **Eligibility**  
 By accessing or using the Wiki, you represent and warrant that you are at least 18 years old or have the consent of a parent or guardian to use the Wiki. If you are using the Wiki on behalf of an organization, you represent and warrant that you have the authority to bind the organization to these Terms.
@@ -64,6 +64,6 @@ If any provision of these Terms is found to be invalid, illegal, or unenforceabl
 These Terms constitute the entire agreement between you and us regarding your use of the Wiki and supersede any prior agreements or understandings, whether written or oral.
 
 ## 14. **Contact Information**  
-If you have any questions or concerns regarding these Terms, please contact via email [here](mailto:mike+wiki@desocios.com).
+If you have any questions or concerns regarding these Terms, please contact via email to [Mike](mailto:mike+wiki@desocios.com) or [Tyler](mailto:tyler.m.barnes15@gmail.com)
 
 By using the Wiki, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.
