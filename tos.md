@@ -2,19 +2,19 @@
 title: Terms of Service
 description: 
 published: true
-date: 2024-12-15T16:31:41.522Z
+date: 2025-02-02T23:27:06.371Z
 tags: policies, tos, terms, terms of service, terms and conditions
 editor: markdown
-dateCreated: 2024-12-09T13:50:39.006Z
+dateCreated: 2025-02-02T23:24:55.731Z
 ---
 
-# Terms of Service for M. DeSocio - Wiki  
+# Terms of Service - Wiki  
 *(Effective Date: October 23, 2024)*  
 
 **PLEASE READ THESE TERMS OF SERVICE CAREFULLY BEFORE USING THIS WIKI. BY ACCESSING OR USING THE WIKI, YOU AGREE TO BE BOUND BY THESE TERMS. IF YOU DO NOT AGREE TO THESE TERMS, YOU MAY NOT USE THE WIKI.**  
 
 ## 1. **Acceptance of Terms**  
-These Terms of Service ("Terms") govern your access to and use of M.DeSocio - Wiki ("the Wiki"), which is operated by Michael DeSocio ("we," "us," or "our"). By accessing or using the Wiki, you agree to be bound by these Terms, our [Privacy Policy](/privacy) and any other applicable policies. If you do not agree to these Terms, you must discontinue your use of the Wiki immediately.
+These Terms of Service ("Terms") govern your access to and use of - Wiki ("the Wiki"), which is operated by Michael DeSocio and Tyler Barnes ("we," "us," or "our"). By accessing or using the Wiki, you agree to be bound by these Terms, our [Privacy Policy](/privacy) and any other applicable policies. If you do not agree to these Terms, you must discontinue your use of the Wiki immediately.
 
 ## 2. **Eligibility**  
 By accessing or using the Wiki, you represent and warrant that you are at least 18 years old or have the consent of a parent or guardian to use the Wiki. If you are using the Wiki on behalf of an organization, you represent and warrant that you have the authority to bind the organization to these Terms.
