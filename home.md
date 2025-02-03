@@ -2,15 +2,18 @@
 title: Homelab
 description: The Homelab Wiki documents a personal IT lab simulating enterprise infrastructure. It covers networking (VLANs, MLAG, BGP), high availability hypervisors, NAS storage, and monitoring tools like Uptime Kuma, SNMP Traps, and Wazuh.
 published: true
-date: 2024-12-15T17:09:57.382Z
+date: 2025-02-03T14:36:39.979Z
 tags: homepage
 editor: markdown
-dateCreated: 2024-12-15T17:09:57.382Z
+dateCreated: 2025-01-31T18:12:06.808Z
 ---
 
 # Welcome to the Homelab Wiki  
 
-The Homelab Wiki serves as a comprehensive resource for documenting the design, configuration, and operations of a personal homelab. This lab replicates enterprise-level IT infrastructure, offering shared resources and fostering collaborative learning among peers. Its purpose is to provide a testing ground for enterprise technologies and methodologies, enabling experimentation and hands-on experience.  
+The Homelab Wiki serves as a comprehensive resource for documenting the design, configuration, and operations of our personal homelab. This lab replicates enterprise-level IT infrastructure, offering shared resources and fostering collaborative learning among peers. Its purpose is to provide a testing ground for enterprise technologies and methodologies, enabling experimentation and hands-on experience.  
+
+## #whoami
+Our names are Michael DeSocio and Tyler Barnes. In an effort to both share knowledge between ourselves and the world, we combined our homelabs to better service the functions and capabilities that we want. With the available bandwidth and internet, it has become increasingly difficult to host items and projects within our residences. Therefore, we have located our homelab (for now) at a location owned by Michael's family with FTTP (Fiber to the Premises). This allows for us to have increased upload to perform tasks such as offsite backups, hosting media servers for friends and family, and provide a fast, remote site for hosting various projects. 
 
 ## Homelab Overview  
 
