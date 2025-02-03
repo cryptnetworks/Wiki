@@ -2,7 +2,7 @@
 title: Linkwarden
 description: link warden config
 published: true
-date: 2025-02-03T00:41:44.433Z
+date: 2025-02-03T00:41:57.511Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-03T00:39:27.865Z
