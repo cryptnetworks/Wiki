@@ -2,7 +2,7 @@
 title: Homelab
 description: The Homelab Wiki documents a personal IT lab simulating enterprise infrastructure. It covers networking (VLANs, MLAG, BGP), high availability hypervisors, NAS storage, and monitoring tools like Uptime Kuma, SNMP Traps, and Wazuh.
 published: true
-date: 2025-02-03T14:36:39.979Z
+date: 2025-02-03T14:37:18.119Z
 tags: homepage
 editor: markdown
 dateCreated: 2025-01-31T18:12:06.808Z
@@ -17,7 +17,7 @@ Our names are Michael DeSocio and Tyler Barnes. In an effort to both share knowl
 
 ## Homelab Overview  
 
-The homelab is structured to mirror the complexity of modern enterprise environments, including:  
+Our homelab is structured to mirror the complexity of modern enterprise environments, including:  
 
 ### Enterprise Networking Structure  
 The network is designed for reliability, scalability, and security using enterprise-grade protocols and configurations:  
