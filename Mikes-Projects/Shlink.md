@@ -2,7 +2,7 @@
 title: Shlink (Link Shortener)
 description: The best selfhosted link shortener to serve shortened links to users.
 published: true
-date: 2025-02-17T15:27:54.304Z
+date: 2025-02-17T15:42:00.406Z
 tags: docker, shlink, selfhosted, docker compose, cloud hosted
 editor: markdown
 dateCreated: 2025-02-17T15:21:18.469Z
@@ -15,7 +15,7 @@ dateCreated: 2025-02-17T15:21:18.469Z
 ## What is Shlink?
 Shlink is an opensource project created by [Alejandro Celaya](https://github.com/acelaya), a full stack developer for Hypothesis (at the time of writing). The slogan of the application reads, ***Keep control over all your shortened URLs, by serving them under your own domains, using this simple yet powerful tool.*** 
 
-It allows for the use of CLI and REST API calls to complete generation through other applications when needed. Utilizing something like Shlink will allow me to generate quick links when posting here and share them out to users across the web with ease.
+Shlink allows for the use of CLI and REST API calls to complete generation through other applications when needed. Utilizing something like Shlink will allow me to generate quick links when posting here and share them out to users across the web with ease.
 
 ## My Use Case
 
@@ -27,6 +27,7 @@ I've needed a way to generate links without the slow propagation times of creati
 
 ![screenshot_2025-02-17_at_10.07.53.png](/assets/screenshot_2025-02-17_at_10.07.53.png){.align-center}
 
+` Note: You need to add a network called *shlink-network* for it to work.` 
 
 2. Under "*Local*", select <kbd>*Stacks*</kbd>
 ![screenshot_2025-02-17_at_10.10.11.png](/assets/screenshot_2025-02-17_at_10.10.11.png){.align-center}
@@ -77,6 +78,7 @@ services:
 
 networks:
   shlink-network:
+  	external: true
 ```
 
 6. Make any necessary changes to this docker compose to make it compatable to what you want.
