@@ -2,7 +2,7 @@
 title: Shlink (Link Shortener)
 description: The best selfhosted link shortener to serve shortened links to users.
 published: true
-date: 2025-02-17T15:21:18.469Z
+date: 2025-02-17T15:27:54.304Z
 tags: docker, shlink, selfhosted, docker compose, cloud hosted
 editor: markdown
 dateCreated: 2025-02-17T15:21:18.469Z
@@ -25,22 +25,21 @@ I've needed a way to generate links without the slow propagation times of creati
 
 1. I started by launching my docker box in Hetzner and navigating to the Portainer page where I can manage my containers.
 
-![screenshot_2025-02-17_at_10.07.53.png](/assets/screenshot_2025-02-17_at_10.07.53.png){.align-left}
+![screenshot_2025-02-17_at_10.07.53.png](/assets/screenshot_2025-02-17_at_10.07.53.png){.align-center}
 
 
-2. Under "*Local*", select "*Stacks*"
-![screenshot_2025-02-17_at_10.10.11.png](/assets/screenshot_2025-02-17_at_10.10.11.png){.align-left}
+2. Under "*Local*", select <kbd>*Stacks*</kbd>
+![screenshot_2025-02-17_at_10.10.11.png](/assets/screenshot_2025-02-17_at_10.10.11.png){.align-center}
 
-3. From there, add a new stack by clicking "*Add Stack*" in the top right.
+3. From there, add a new stack by clicking <kbd>*Add Stack*</kbd> in the top right. At the top, make sure to name your stack!
 
 4. You have some options here. Often times, you'll want to just add from the web editor and paste in whatever config the app gives you, other times you can download and upload to Portainer. In most cases, I like to pull from GitHub and use some basic GitOps to track changes and updates to my application. However, I'm just going to use the Web editor.
 
-![image.png](/assets/image.png)
+![image.png](/assets/image.png){.align-center}
 
 5. Using the yaml file below, take and paste this into the editor.
 
-```version: '3.8'
-
+```
 services:
   shlink:
     image: shlinkio/shlink:latest
@@ -80,3 +79,8 @@ networks:
   shlink-network:
 ```
 
+6. Make any necessary changes to this docker compose to make it compatable to what you want.
+
+7. Once complete, click <kbd>*Deploy Stack*</kbd> at the bottom and wait for it to build.
+
+8. *Et Voila!* - sorry...not French.
